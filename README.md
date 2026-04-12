@@ -76,9 +76,7 @@ Building
   git clone https://github.com/SplaatSites/kinect-adventures.git
   ```
 
-- Copy your game's disc image to `orig/4D5308ED`.
-  - Supported formats: ISO (GCM), RVZ, WIA, WBFS, CISO, NFS, GCZ, TGC
-  - After the initial build, the disc image can be deleted to save space.
+- Copy your game's xex file to `orig/4D5308ED`.
 
 - Configure:
 
